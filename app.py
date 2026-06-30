@@ -21,7 +21,8 @@ OPTIONS = [
     "6. obesity as historically/environmentally inflicted",
     "7. obesity as physiologically attributed",
     "8. obesity as knowledge-deficit related",
-    "9. ambiguous, hard to classify"
+    "9. obesity as food related",
+    "10. ambiguous, hard to classify"
 ]
 
 S_COLUMNS = [f"S{i}" for i in range(1, 9)]
