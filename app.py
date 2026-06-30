@@ -18,7 +18,7 @@ OPTIONS = [
     "3. obesity as occupational cost",
     "4. obesity as emotionally driven",
     "5. obesity as age-related",
-    "6. obesity as historically inflicted",
+    "6. obesity as historically/environmentally inflicted",
     "7. obesity as physiologically attributed",
     "8. obesity as knowledge-deficit related",
     "9. ambiguous, hard to classify"
