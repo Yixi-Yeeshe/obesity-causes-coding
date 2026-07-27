@@ -18,11 +18,10 @@ OPTIONS = [
     "3. obesity as occupational cost",
     "4. obesity as emotionally driven",
     "5. obesity as age-related",
-    "6. obesity as historically/environmentally inflicted",
+    "6. obesity as historically/environmentally/socially inflicted",
     "7. obesity as physiologically attributed",
     "8. obesity as knowledge-deficit related",
-    "9. obesity as food/diet/drink induced",
-    "10. obesity as socially influenced"
+    "9. obesity as food/diet/drink induced"  
 ]
 
 S_COLUMNS = [f"S{i}" for i in range(1, 9)]
