@@ -21,8 +21,8 @@ OPTIONS = [
     "6. obesity as historically/environmentally/inter-personal relationship inflicted",
     "7. obesity as physiologically attributed（生理原因）",
     "8. obesity as knowledge-deficit related（知识不足）",
-    "9. obesity as food/diet/drink induced（易胖饮食）",  
-    "10. obesity as easily-triggered（肥胖很容易触发）"
+    "9. obesity as food/diet/drink induced（易胖饮食）"
+   
 ]
 
 S_COLUMNS = [f"S{i}" for i in range(1, 9)]
