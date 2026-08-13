@@ -13,16 +13,12 @@ KAPPA_SHEET = "causes_kappa"
 DATA_PATH = "obesity causes.csv"
 
 OPTIONS = [
-    "1. obesity as inevitable or unknown reason caused(肥胖难避免或不知道原因)",
-    "2. obesity as self-inflicted（肥胖是自我触发）",
+    "1. obesity as inexplicable or unavoidable(肥胖难避免或不知道原因)",
+    "2. obesity as self-inflicted（肥胖是自我触发，包含，饮食运动，知识不足）",
     "3. obesity as occupational cost（肥胖和职业工作有关）",
     "4. obesity as emotionally driven（和情绪有关）",
-    "5. obesity as age-related（年龄有关）",
-    "6. obesity as historically/environmentally/inter-personal relationship inflicted",
-    "7. obesity as physiologically attributed（生理原因）",
-    "8. obesity as knowledge-deficit related（知识不足）",
-    "9. obesity as food/diet/drink induced（易胖饮食）"
-   
+    "5. obesity as inter-personal relationship inflict（与人际关系有关）",
+    "6. obesity as physiological atributed (生理原因包含年龄，基因，食欲等)"      
 ]
 
 S_COLUMNS = [f"S{i}" for i in range(1, 9)]
